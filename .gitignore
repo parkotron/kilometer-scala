@@ -1,0 +1,6 @@
+*.log
+*.db
+*.rdb
+.idea
+start
+target/
