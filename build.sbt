@@ -9,5 +9,6 @@ libraryDependencies ++= Seq(
   "com.twitter" %% "finagle-http" % "6.30.0",
   "joda-time" % "joda-time" % "2.7",
   "org.joda" % "joda-convert" % "1.2",
-  "org.json4s" %% "json4s-native" % "3.3.0"
+  "org.json4s" %% "json4s-native" % "3.3.0",
+  "org.scalatest" % "scalatest_2.10" % "2.2.4" % "test"
 )
